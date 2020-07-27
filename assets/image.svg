@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/css" href="https://github.com/ldelbel/My-Readme-Template/blob/master/styles.css"?>
+
 
 <svg
       width="939"
@@ -7,6 +7,97 @@
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
+      <style type="text/css" >
+      <![CDATA[
+        #birds {
+  animation-name: floating;
+  animation-iteration-count: infinite;
+  animation-duration: 6s;
+  animation-timing-function: ease-in-out;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+#leaves {
+  animation-name: wind;
+  animation-iteration-count: infinite;
+  animation-duration: 3s;
+  animation-timing-function: ease-in-out;
+  margin-left: 30px;
+  margin-top: 20px;
+  transform-origin: center;
+}
+
+#hair {
+  animation-name: windhair;
+  animation-iteration-count: infinite;
+  animation-duration: 3s;
+  animation-timing-function: ease-in-out;
+  margin-left: 30px;
+  margin-top: 20px;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#code {
+  animation-name: coding;
+  animation-iteration-count: infinite;
+  animation-duration: 3s;
+  animation-timing-function: linear;
+}
+
+@keyframes floating {
+  from {
+    transform: translate(0, 0);
+  }
+  35% {
+    transform: translate(10px, 10px);
+  }
+  65% {
+    transform: translate(15px, -10px);
+  }
+  to {
+    transform: translate(0, 0px);
+  }
+}
+
+@keyframes wind {
+  from {
+    transform: rotate(0);
+  }
+  65% {
+    transform: rotate(1deg);
+  }
+  to {
+    transform: rotate(0);
+  }
+}
+
+@keyframes windhair {
+  from {
+    transform: rotate(0);
+  }
+  65% {
+    transform: rotate(5deg);
+  }
+  to {
+    transform: rotate(0);
+  }
+}
+
+@keyframes coding {
+  from {
+    transform: translate(0, 0);
+  }
+  to {
+    transform: translate(-3px, -148px);
+  }
+}
+
+        }
+      ]]>
+  </style>
+      
       <g id="undraw_working_from_anywhere_ub67 1" clip-path="url(#clip0)">
         <ellipse
           id="Ellipse 1"
