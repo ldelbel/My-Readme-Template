@@ -1,3 +1,4 @@
+
 <h1 align='center'> Hi there! 👋 I'm Lucas, a Full Stack Developer</h1>
 
 <p align='center'>
@@ -21,6 +22,21 @@
 ### 📚&nbsp;&nbsp;&nbsp;Currently learning:
 <img alt="Rails" title="Rails" src="https://user-images.githubusercontent.com/59986562/88586259-8b26c880-d02a-11ea-93e7-57e6fad8235b.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="React" title="React" src="https://user-images.githubusercontent.com/59986562/88585675-c1177d00-d029-11ea-9aae-812458cdd582.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Node.js" title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="PostgreSQL" title="PostgreSQL" src="https://user-images.githubusercontent.com/59986562/88583306-79432680-d026-11ea-867d-faa77a483554.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Webpack" title="Webpack" src="https://user-images.githubusercontent.com/59986562/88586053-469b2d00-d02a-11ea-9e48-4ca613ced85f.png" height="28">&nbsp;&nbsp;&nbsp;&nbsp; 
 
+
 <div>
-<img width=330px align=right  src=./assets/image.svg/>
+  
+## About me
+
+- Studying Software Development at [Microverse School](https://www.microverse.org/) <img alt="Microverse" title="Microverse" src="https://user-images.githubusercontent.com/59986562/88595658-ced4fe80-d039-11ea-97fd-f6351b7e8d00.png" height="28">&nbsp;&nbsp;&nbsp;&nbsp; 
+- Studied Industrial Engineering at [UNIFEI](https://unifei.edu.br/) 📖
+- Entrepeneur ([Previous Business](https://www.instagram.com/fitwaydoces/)) 📈
+- Calisthenics Enthusiast ([Freeletics](https://www.freeletics.com/en/)) 💪
+- Spiritualist Musician 🎸
+- Gamer 🎮
+- Available for new opportunities 
+
+ 
+
 </div>
+<img width=330px align=right  src=./assets/image.svg/>
+
