@@ -2,4 +2,4 @@
 
 
 
-<img src=./assets/image.svg/>
+<img width=100px height=120px src=./assets/image.svg/>
